@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanbanfire-pab": {
+      "hosting": {
+        "kanban-fire": [
+          "kanbanfire-pab"
+        ]
+      }
+    }
+  }
+}
